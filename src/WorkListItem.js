@@ -6,8 +6,8 @@ import styled from "styled-components";
 class WorkItem extends React.Component {
   createStyledAvatar() {
     return styled(Avatar)({
-      width: "150px",
-      height: "150px"
+      width: "140px",
+      height: "140px"
     });
   }
 

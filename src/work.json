@@ -3,7 +3,7 @@
     "companyName": "Mixmax",
     "year": "2019-2020",
     "role": "Platform Engineer, Software Engineer",
-    "description": "",
+    "description": "Building out our next generation of infrastructure.",
     "pathToImage": "/img/mixmax.png"
   },
   {
@@ -12,6 +12,34 @@
     "role": "Security Software Engineer Intern",
     "description": "I built a restful API for manipulating ACLs across Salesforce data centers.",
     "pathToImage": "/img/salesforce.jpg"
+  },
+  {
+    "companyName": "Riptide Messaging",
+    "year": "2016-2017",
+    "role": "Lead Software Engineer",
+    "description": "Led a team of 5 software engineers to build a direct messaging app for customer-facing roles.",
+    "pathToImage": "/img/riptide.jpg"
+  },
+  {
+    "companyName": "Riptide Messaging",
+    "year": "2016-2017",
+    "role": "Lead Software Engineer",
+    "description": "Led a team of 5 software engineers to build a direct messaging app for customer-facing roles.",
+    "pathToImage": "/img/riptide.jpg"
+  },
+  {
+    "companyName": "Riptide Messaging",
+    "year": "2016-2017",
+    "role": "Lead Software Engineer",
+    "description": "Led a team of 5 software engineers to build a direct messaging app for customer-facing roles.",
+    "pathToImage": "/img/riptide.jpg"
+  },
+  {
+    "companyName": "Riptide Messaging",
+    "year": "2016-2017",
+    "role": "Lead Software Engineer",
+    "description": "Led a team of 5 software engineers to build a direct messaging app for customer-facing roles.",
+    "pathToImage": "/img/riptide.jpg"
   },
   {
     "companyName": "Riptide Messaging",
